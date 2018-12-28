@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sqlite-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/sqlite/1.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/sqlite/1.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liulishuo.okdownload/sqlite/1.0.3/61b40ff3b13869daa45a5f6bdf84e59b868bb315/sqlite-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

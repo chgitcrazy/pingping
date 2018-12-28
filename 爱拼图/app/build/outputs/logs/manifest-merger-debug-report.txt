@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:12:22-80
+uses-sdk
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:14:5-16:41
+MERGED from [com.android.support:appcompat-v7:18.0.0] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.liulishuo.okdownload:okdownload:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okdownload/1.0.3/AndroidManifest.xml:6:5-44
+MERGED from [com.liulishuo.okdownload:sqlite:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/sqlite/1.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.liulishuo.okdownload:okhttp:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okhttp/1.0.3/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:16:9-38
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:15:9-34
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:18:5-71:19
+MERGED from [com.android.support:appcompat-v7:18.0.0] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.liulishuo.okdownload:okdownload:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okdownload/1.0.3/AndroidManifest.xml:8:5-13:19
+	android:label
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:20:9-38
+	android:theme
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:22:9-40
+activity#mobi.oneway.sdk.AdShowActivity
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:23:9-28:74
+	android:hardwareAccelerated
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:26:13-47
+	android:launchMode
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:27:13-44
+	android:configChanges
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:25:13-170
+	android:theme
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:28:13-71
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:24:13-58
+provider#mobi.oneway.sdk.common.OWProvider
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:authorities
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:31:13-60
+		INJECTED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:33:13-47
+	android:exported
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:30:13-61
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:34:13-36:57
+	android:resource
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:36:17-54
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:35:17-67
+activity#com.activity.LogoActivity
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:39:9-47:20
+	android:label
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:40:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:45:27-74
+activity#com.activity.MenuActivity
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:48:10-51:20
+	android:configChanges
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:50:14-64
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:49:13-53
+activity#com.activity.OptionActivity
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:52:14-54:13
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:53:13-55
+activity#com.activity.HelpActivity
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:56:5-58:13
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:57:13-53
+activity#com.activity.SelectGame
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:59:3-61:13
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:60:13-51
+activity#com.activity.GameActivity
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:62:3-64:13
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:63:13-53
+activity#com.activity.InputName
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:65:1-67:13
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:66:13-50
+activity#com.activity.RankActivity
+ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:68:2-70:13
+	android:name
+		ADDED from /Users/pro/Desktop/ready go/爱拼图/app/src/main/AndroidManifest.xml:69:13-53
+provider#com.liulishuo.okdownload.OkDownloadProvider
+ADDED from [com.liulishuo.okdownload:okdownload:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okdownload/1.0.3/AndroidManifest.xml:9:9-12:40
+	android:authorities
+		ADDED from [com.liulishuo.okdownload:okdownload:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okdownload/1.0.3/AndroidManifest.xml:11:13-76
+	android:exported
+		ADDED from [com.liulishuo.okdownload:okdownload:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okdownload/1.0.3/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.liulishuo.okdownload:okdownload:1.0.3] /Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okdownload/1.0.3/AndroidManifest.xml:10:13-71

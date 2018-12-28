@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OnewaySdk-2.2.1_release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/OnewaySdk-2.2.1_release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES />
+  </library>
+</component>

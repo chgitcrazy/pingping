@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/pre-dexed/debug/okio-1.14.0_33256cc41859830cf7aa4077b0615d49486f85bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/pro/Desktop/Android游戏源码不一样的拼图游戏源码/爱拼图/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_e9dd1763a578c94ff07456a7cbdd65e71503833d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_bdc0e10bdccaa7f8e0aa56b05b4cf8fcacd5aa0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/sqlite/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae9216cde5f75e0a110a530a8b9d0d0bd53cb909">
+        <dex dex="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/pre-dexed/debug/com.liulishuo.okdownload-sqlite-1.0.3_d83ea4ab6e006a35ce36ee36380ba48ac664ce5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Desktop/ready go/爱拼图/app/libs/OnewaySdk-2.2.1_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1605bd3ee20e9ddbb0f74a8ddbe0beb492058b2d">
+        <dex dex="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/pre-dexed/debug/OnewaySdk-2.2.1_release_c8083d51c2732fa9035a394f9be1bd5c61fd1560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okdownload/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="59ad0c80510f8d3e9258a84602e661dbb374aeee">
+        <dex dex="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/pre-dexed/debug/com.liulishuo.okdownload-okdownload-1.0.3_1cdf64f23ccd7610d59503a1a5c0bf281f090e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.liulishuo.okdownload/okhttp/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4e4328b5ca4da70ca6025c2246431957a94dcb22">
+        <dex dex="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/pre-dexed/debug/com.liulishuo.okdownload-okhttp-1.0.3_a8f6332462deb19df8b04264bedf027781891916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/pro/Desktop/ready go/爱拼图/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_34a5f362f5db26e8c3a7717089c0a713a2a07109.jar" />
+    </item>
+
+</items>
